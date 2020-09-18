@@ -1,7 +1,7 @@
 #######
 # File: Homework2_drb160130.py
 # Author: Dorian Benitez (drb160130)
-# Date: 9/6/2020 ??????
+# Date: 9/6/2020 
 # Purpose: CS 4395.001 - Homework 2 (Word Guessing Game)
 #######
 
